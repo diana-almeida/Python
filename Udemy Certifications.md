@@ -1,6 +1,6 @@
-#The Python Bible
+# The Python Bible
 
-##Description:
+## Description:
 
 In this course you will learn:
 
