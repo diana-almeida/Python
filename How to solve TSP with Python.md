@@ -44,18 +44,17 @@ A)	 You must have one of the following Python versions
     
 B)	Verify that you have pip 9.01 or higher (If you have one of the Python versions above you must have this pip version), to do that open the command prompt (Like the image below), copy-paste the following link and click enter. The results from the last image must 
 
-`
-**python --version
+**`python --version
 python -c "import platform; print(platform.architecture()[0])"
-python -m pip --version**
-`
+python -m pip --version
+`**
 
 ![8](/Pic8.png)
 ![9](/Pic9.png)
 
 C)	Download OR-Tools, copy- paste the link below inside the command prompt, like the image below. Click enter and it should appear successful download.
 
-`**python -m pip install --user ortools**`
+**`python -m pip install --user ortools`**
 
 
 ![10](/Pic10.png)
