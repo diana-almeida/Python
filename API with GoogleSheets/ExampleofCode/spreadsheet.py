@@ -9,5 +9,5 @@ client = gspread.authorize(creds)
 
 sheet = client.open('Name of the file').sheet1
 
-LeaderForm = sheet.get_all_records()
-print (LeaderForm)
+All = sheet.get_all_records()
+print (All)
