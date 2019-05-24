@@ -3,7 +3,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 scope = ['https://www.googleapis.com/auth/drive']
 
-creds = ServiceAccountCredentials.from_json_keyfile_name('Z:\Interns\Ana Carmiña\GoogleSheets info with Python\leadershipForm_secret.json',scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('.json file path',scope)
 
 client = gspread.authorize(creds)
 
