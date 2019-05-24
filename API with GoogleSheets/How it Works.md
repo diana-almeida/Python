@@ -10,3 +10,4 @@ This webpage will show you how to:
 
 Once you finish, you will be able to see the data like this:
 
+![SS Code in Atom](https://user-images.githubusercontent.com/47669890/58343368-69bfc080-7e18-11e9-8c8b-9d9403d96b92.jpg)
