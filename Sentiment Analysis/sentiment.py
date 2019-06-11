@@ -3,7 +3,7 @@ from textblob import TextBlob
 import pandas as pd
 
 #write path of the file where you have the information
-path='TEST.csv'
+path='C:/Users/admin/Desktop/TEST.csv'
 
 #make csv readable
 data = pd.read_csv(path)
